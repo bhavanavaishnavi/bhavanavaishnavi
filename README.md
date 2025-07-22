@@ -1,3 +1,7 @@
-##Hi 👋, I bhavana  Vaishnavi.
-I’m a Computer Science Engineering student with skills in Java, HTML, CSS, and Java Full Stack Development. 
-I’m passionate about learning new technologies and building creative projects.
+ Hi, I’m Vaishnavi
+I’m a Computer Science student from sri vasavi engineering college
+
+🌱 I’m currently learning Java Full Stack Development and exploring LeetCode problems.
+👩‍💻 Skilled in Java, HTML, CSS, and passionate about building web applications.
+📫 Reach me at: vaishnavivai2299@gmail.com
+⚡ Fun fact: I enjoy solving coding challenges and creating innovative projects.
